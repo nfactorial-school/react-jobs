@@ -1,5 +1,3 @@
-import { Layout } from "antd";
-import styled from "styled-components";
 import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import "antd/dist/antd.css";
 import "../styles/globals.css";

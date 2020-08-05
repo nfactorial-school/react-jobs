@@ -1,6 +1,4 @@
-import Head from "next/head";
 import withMainLayout from "../components/withMainMenu";
-import styles from "../styles/Home.module.css";
 import { useQuery, gql } from "@apollo/client";
 import JobPost from "../components/JobPost";
 
